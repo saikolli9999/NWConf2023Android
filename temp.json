@@ -1,0 +1,200 @@
+{
+    "project": [
+      {
+        "lastName": "Maram",
+        "groupEmail": "",
+        "wantToAttend": false,
+        "areaOfInterest": "Human resources management,Talent management,AI",
+        "groupSubmission": false,
+        "firstName": "Deepak Reddy",
+        "confirmPassword": "123456",
+        "email": "deepakreddy2634@gmail.com",
+        "document": "https://res.cloudinary.com/dd1uzjqg8/image/upload/v1684789394/1684789393159.pdf",
+        "otherKeyword": "AI-enabled recruiting,Human resources management,Talent management",
+        "abstract": "A large body of research has well established that changes in net balances between labor supply and demand can drive competition for human capital. We propose that AI-enabled recruiting tools constitute a force that will intensify the war for talent above and beyond episodic changes in net balances. We also propose that three seismic shifts will further intensify the war for talent by increasing the value of human capital and lowering its switching costs. Lastly, we bridge human resource management and military escalation literatures and examine how three key onset conditions relative to the use of AI-enabled recruiting tools have the potential to spark an arms race for those tools. Finally, we examine the managerial implications of these dynamics so that managers prevail not just in shortterm skirmishes but also in the long-term war for talent.",
+        "keyword": [
+          {
+            "label": "Other",
+            "value": "Other"
+          }
+        ],
+        "title": "AI-enabled recruiting in the war for talent",
+        "paperID": "007",
+        "submisstionType": "user",
+        "approved": "Approved",
+        "reviewers": [
+          {
+            "firstName": "prasanna",
+            "lastName": "konakanchi",
+            "wantToReview": "",
+            "areaOfInterest": "software components,Reo coordination model,Data Mining",
+            "confirmPassword": "123456",
+            "email": "konakanchiprasanna555@gmail.com",
+            "updatedAt": 1684788786936,
+            "numberOfPapersAssigned": 0
+          },
+          {
+            "firstName": "Sai Karthik",
+            "lastName": "Malyala",
+            "wantToReview": "",
+            "areaOfInterest": "Software engineering, Cloud computing, Block chain",
+            "confirmPassword": "123456",
+            "email": "sai.karthik.malyala@gmail.com",
+            "updatedAt": 1684788837843,
+            "numberOfPapersAssigned": 0
+          },
+          {
+            "firstName": "Prathyusha",
+            "lastName": "Maram",
+            "wantToReview": "",
+            "areaOfInterest": "Electricity data,Data mining,AI",
+            "confirmPassword": "123456",
+            "email": "prathyu.maram@gmail.com",
+            "updatedAt": 1684788043358,
+            "numberOfPapersAssigned": 0
+          }
+        ],
+        "reviewerApproval": [
+          {
+            "presentation": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "theoretical": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "approve": "Strongly Approved",
+            "findings": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "email": "konakanchiprasanna555@gmail.com",
+            "relavance": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "objective": {
+              "comments": "ok",
+              "points": "10"
+            }
+          },
+          {
+            "presentation": {
+              "comments": "o",
+              "points": "10"
+            },
+            "theoretical": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "approve": "Strongly Approved",
+            "findings": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "email": "sai.karthik.malyala@gmail.com",
+            "relavance": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "objective": {
+              "comments": "ok",
+              "points": "10"
+            }
+          },
+          {
+            "presentation": {
+              "comments": "o",
+              "points": "10"
+            },
+            "theoretical": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "approve": "Strongly Approved",
+            "findings": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "email": "prathyu.maram@gmail.com",
+            "relavance": {
+              "comments": "ok",
+              "points": "10"
+            },
+            "objective": {
+              "comments": "ok",
+              "points": "10"
+            }
+          }
+        ],
+        "updatedAt": 1684965393774,
+        "payementStatus": "COMPLETED"
+      },
+      {
+        "lastName": "M",
+        "groupEmail": "",
+        "wantToAttend": false,
+        "areaOfInterest": "AI,Software Engineering",
+        "payementStatus": "",
+        "otherKeyword": "",
+        "groupSubmission": false,
+        "firstName": "Prathyusha",
+        "approved": "Pending",
+        "submisstionType": "user",
+        "confirmPassword": "123456",
+        "reviewerApproval": [],
+        "email": "prathyusha8374@gmail.com",
+        "paperID": "010",
+        "abstract": "sample Test",
+        "keyword": [
+          {
+            "label": "ML",
+            "value": "ML"
+          },
+          {
+            "label": "Image Processing",
+            "value": "Image Processing"
+          }
+        ],
+        "title": "sample Test",
+        "document": "https://res.cloudinary.com/dd1uzjqg8/image/upload/v1684962682/1684962682278.pdf",
+        "updatedAt": 1684962684036,
+        "reviewers": [
+          {
+            "firstName": "Deepak Reddy",
+            "lastName": "Maram",
+            "wantToReview": "",
+            "areaOfInterest": "Human resources management,Talent management",
+            "confirmPassword": "123456",
+            "acceptedByChair": false,
+            "email": "deepakreddy2634@gmail.com",
+            "updatedAt": 1684789153537,
+            "numberOfPapersAssigned": 0
+          },
+          {
+            "firstName": "pooja",
+            "lastName": "sura",
+            "wantToReview": "",
+            "areaOfInterest": "Electricity data,Data mining,AI",
+            "confirmPassword": "123456",
+            "email": "poojasura2022@gmail.com",
+            "updatedAt": 1685030409218,
+            "numberOfPapersAssigned": 0
+          },
+          {
+            "firstName": "Prathyusha",
+            "lastName": "Maram",
+            "wantToReview": "",
+            "areaOfInterest": "Electricity data,Data mining,AI",
+            "confirmPassword": "123456",
+            "acceptedByChair": true,
+            "email": "prathyu.maram@gmail.com",
+            "updatedAt": 1684788043358,
+            "numberOfPapersAssigned": 1
+          }
+        ]
+      }
+    ],
+    "status": true
+  }
